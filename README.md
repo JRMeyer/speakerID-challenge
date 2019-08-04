@@ -3,7 +3,7 @@
 All information about usage and architecture of these
 scripts can be found at:
 
-`http://jrmeyer.github.io/tutorial/2017/09/29/challenge.html`
+[`http://jrmeyer.github.io/tutorial/2017/09/29/challenge.html`](http://jrmeyer.github.io/tutorial/2017/09/29/challenge.html)
 
 # In a nutshell
 
